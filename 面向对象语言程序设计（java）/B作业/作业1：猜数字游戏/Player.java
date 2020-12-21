@@ -1,4 +1,3 @@
-package com.smrobot.domain;
 
 /**
  * 定义玩家类
